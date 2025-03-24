@@ -6,3 +6,5 @@ Bienvenido a tu mundo ideal
 
 
 ["diálogoNPC-SI"]
+
+["diálogoNPC-NO"]
